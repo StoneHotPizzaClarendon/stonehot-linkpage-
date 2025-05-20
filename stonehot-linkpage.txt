@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Stone Hot Pizza Clarendon</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    background: #fff8f0;
+    color: #b33a3a;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  .container {
+    max-width: 480px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  h1 {
+    font-weight: 900;
+    margin-bottom: 0.2rem;
+  }
+  p {
+    font-size: 1.1rem;
+    margin: 0.3rem 0 1.5rem;
+  }
+  a.button {
+    display: block;
+    background-color: #b33a3a;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 15px 0;
+    border-radius: 8px;
+    margin: 0.8rem 0;
+    font-size: 1.2rem;
+    box-shadow: 0 4px 6px rgba(179, 58, 58, 0.4);
+    transition: background-color 0.3s ease;
+  }
+  a.button:hover {
+    background-color: #8a2929;
+  }
+  small {
+    display: block;
+    margin-top: 2rem;
+    color: #8a2929;
+    font-size: 0.9rem;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Stone Hot Pizza Clarendon 🍕🔥</h1>
+    <p>Fresh-made daily, brick oven baked perfection!</p>
+
+    <a
+      href="https://apps.apple.com/us/app/stone-hot-pizza/id6744569357"
+      class="button"
+      target="_blank"
+      rel="noopener noreferrer"
+      >Order on our App</a
+    >
+
+    <a
+      href="https://stone-hot.com/stonehotclarendon"
+      class="button"
+      target="_blank"
+      rel="noopener noreferrer"
+      >Order on our Website</a
+    >
+
+    <p>Delivery available! Visit us at:</p>
+    <p><strong>3217 Washington Blvd, Arlington, VA</strong></p>
+    <p>Call us anytime: <a href="tel:+15712900171">571-290-0171</a></p>
+
+    <small>Follow us for deals, giveaways & pizza love! ❤️</small>
+  </div>
+</body>
+</html>
